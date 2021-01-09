@@ -1,5 +1,5 @@
-# Hi there, my name is Jorge Agoiz👋
-### And my passion is Web Application Development.
+# Hi there, my name is **Jorge Agoiz** :sunglasses:
+### And my passion is Web Application Development :yellow_heart: :computer: :beginner:.
 
 ![https://github.com/jorgeAgoiz](https://user-images.githubusercontent.com/66563811/104091551-59bf5380-527e-11eb-828b-382f1ae0f622.png)
 <!--
