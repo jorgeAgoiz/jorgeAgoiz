@@ -21,9 +21,11 @@
   </br>
   [![Bootstrap](https://img.shields.io/badge/Bootstrap-662288?style=for-the-badge&logo=Bootstrap&logoColor=F2F2F2&labelColor=101010)]()
   [![CSS](https://img.shields.io/badge/CSS-2F94CB?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
+  [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white&labelColor=101010)]()
   [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
   </br>
    [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&labelColor=101010)]()
+   [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
   
 
 - 📫 How to reach me: 
