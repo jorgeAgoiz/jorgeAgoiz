@@ -15,7 +15,7 @@
   [![C#](https://img.shields.io/badge/C%20%23-662288?style=for-the-badge&logo=C-Sharp&logoColor=F2F2F2&labelColor=101010)]()
   [![PHP](https://img.shields.io/badge/PHP-F0F0F0?style=for-the-badge&logo=PHP&logoColor=F2F2F2&labelColor=777BB4)]()
   </br>
-  [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
+  [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=101010)]()
   [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
   [![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010)]()
@@ -24,6 +24,8 @@
   [![CSS](https://img.shields.io/badge/CSS-2F94CB?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
   [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white&labelColor=101010)]()
   [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
+  [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=F2F2F2&labelColor=101010)]()
+  [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=F2F2F2&labelColor=101010)]()
   </br>
    [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&labelColor=101010)]()
    [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
