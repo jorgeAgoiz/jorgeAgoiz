@@ -1,7 +1,8 @@
+
 # Hi there, my name is **Jorge Agoiz** :sunglasses:
 ### And my passion is Web Application Development :yellow_heart: :computer: :beginner:.
 
-![https://github.com/jorgeAgoiz](https://user-images.githubusercontent.com/66563811/104091551-59bf5380-527e-11eb-828b-382f1ae0f622.png)
+![https://github.com/jorgeAgoiz](https://user-images.githubusercontent.com/66563811/119938042-12ff9b00-bf8c-11eb-8ea4-f85c495cf11b.png)
 <!--
 **jorgeAgoiz/jorgeAgoiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
