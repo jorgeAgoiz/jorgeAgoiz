@@ -20,6 +20,7 @@
   [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
   [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
   [![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=101010)]()
+  [![Node.js](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=GraphQL&logoColor=white&labelColor=101010)]()
   </br>
   [![Bootstrap](https://img.shields.io/badge/Bootstrap-662288?style=for-the-badge&logo=Bootstrap&logoColor=F2F2F2&labelColor=101010)]()
   [![CSS](https://img.shields.io/badge/CSS-2F94CB?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
