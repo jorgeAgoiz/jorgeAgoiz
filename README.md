@@ -28,10 +28,12 @@
   [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
   [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=F2F2F2&labelColor=101010)]()
   [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=F2F2F2&labelColor=101010)]()
+  [![Next.js](https://img.shields.io/badge/Next.js-0082C9?style=for-the-badge&logo=Next.js&logoColor=F2F2F2&labelColor=101010)]()
   </br>
    [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&labelColor=101010)]()
    [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
    [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white&labelColor=101010)]()
+   [![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-F2F2F2?style=for-the-badge&logo=Google%20Tag%20Manager&logoColor=white&labelColor=246FDB)]()
   
 
 - 📫 How to reach me: 
